@@ -24,7 +24,7 @@
                         echo fread($myfile,filesize("/var/www/my-vol/date"));
                         fclose($myfile);
                 ?>
-
+                <p>Testing CodePipeline automatically deploy</p>
             </div>
         </div>
 
